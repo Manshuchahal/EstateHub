@@ -56,7 +56,7 @@ Whether you are searching for your dream home, listing premium properties, or ma
 ## 1️⃣ Clone the Repository
 
 ```bash
-
+git clone https://github.com/Manshuchahal/EstateHub.git
 cd EstateHub
 ```
 
